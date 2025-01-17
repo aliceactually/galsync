@@ -1,6 +1,6 @@
 <#
-GALSync written by Matthew Saunier, 18 Oct 2013
-Last update by Matthew Saunier, 22 Dec 2013
+GALSync written by Alice Saunier, 18 Oct 2013
+Last update by Alice Saunier, 22 Dec 2013
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
